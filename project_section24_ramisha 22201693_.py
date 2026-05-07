@@ -1,4 +1,4 @@
-#project_section24_hrithik22301013_ramisha22201693
+#project_section24_ramisha22201693
 
 from OpenGL.GL import *
 from OpenGL.GLUT import *
